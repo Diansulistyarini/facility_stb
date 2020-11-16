@@ -1,0 +1,133 @@
+
+h5{
+    margin-left: 110%;
+    margin-top: -5%;
+}
+#container {
+    padding-left: 0;
+}
+
+#container.toggled {
+    padding-left: 250px;
+}
+
+#sidebar {
+    position: fixed;
+    left: 250px;
+    /* width: 100px; */
+    width: 10px;
+    height: 103%;
+    margin-left: -250px;
+    margin-top: -8px;
+    overflow-y: auto;
+    background: #928EFF;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+}
+
+#container.toggled #sidebar {
+    width: 200px;
+}
+
+#page-content-container {
+    width: 70%;
+    position: absolute;
+    padding: 15px;
+}
+
+#container.toggled #page-content-container {
+    position: absolute;
+    margin-right: -250px;
+}
+
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 70px;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    background: #ffc8a3;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+@media(min-width:768px) {
+    #container {
+        padding-left: 250px;
+    }
+
+    #container.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar {
+        width: 220px;
+    }
+
+    #container.toggled #sidebar {
+        width: 0;
+    }
+
+    #page-content-container {
+        padding: 20px;
+    }
+
+    #container.toggled #page-content-container {
+        margin-right: 0;
+    }
+}
+
+.slide{
+    width: 90%;
+    height: 90%;
+    margin-left: 50px;
+
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 90%;
+}
+
+/* buat choose */
+.lingkaran1{
+	width: 200px;
+	height: 200px;
+	background: #928EFF;
+    border-radius: 100%;
+    margin-left: 350px;
+    margin-top: 12%;
+}
+
+.lingkaran2{
+	width: 205px;
+	height: 205px;
+	background: #928EFF;
+    border-radius: 100%;
+    margin-left: 700px;
+    margin-top: -21%;
+}

@@ -1,0 +1,50 @@
+2020-01-31 05:50:36: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2020-01-31 05:50:36: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2020-01-31 07:00:39: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2020-01-31 07:00:39: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2020-01-31 07:00:46: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp4\htdocs\appbener\phpqrcode\qrinput.php</b> on line <b>685</b><br />
